@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RaaSCardTokenizerAndroidExample</string>
+    <string name="session_id">Session ID</string>
+    <string name="tenant">Tenant</string>
+    <string name="cvv">CVV</string>
+    <string name="card_number">Card Number</string>
+    <string name="get_token">Get Token</string>
+    <string name="get_dataClient">Get Data Client</string>
+    <string name="goToJava">Go JAVA</string>
+    <string name="public_key">Public Key</string>
+    <string name="token">Token:</string>
+    <string name="dataClient">Data Client:</string>
+</resources>
