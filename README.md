@@ -10,6 +10,6 @@ This repo is for testing purpose to validate the android RaaS sdk for our users
    setPublicKey()
 ```
 4. Write your Tenant Name on the Tenant Field
-**Enjoy it!**
+
 
 Notes: Use android studio 4.0+ to do this
